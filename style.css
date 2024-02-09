@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0px;
+    padding: 20px 100px;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+    color: bisque;
+}
+.btn{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    border-radius: 50%;
+    cursor: pointer;
+}
+#violet{
+     background-color: violet;
+}
+#green{
+      background-color: green;
+}
+#maroon{
+       background-color: maroon;
+}
+#orange{
+    background-color: orangered;
+
+}
+#color-switcher{
+    text-align: right;
+}
